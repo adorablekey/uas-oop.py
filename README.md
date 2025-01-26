@@ -23,6 +23,10 @@ Class Process yang bertanggung jawab untuk logika data (tambah, hapus, edit, car
 
  main program
 ![Screenshot 2025-01-27 000513](https://github.com/user-attachments/assets/849bf8eb-3709-445e-baba-de7ec316b0d9)
+
+main.py: Ini adalah file utama yang akan menampilkan menu kepada pengguna dan mengelola alur program. Pengguna dapat memilih berbagai opsi untuk mengelola data siswa. Program terus berjalan hingga pengguna memilih opsi "Keluar".
+
+
 OUTPUT
 ![Screenshot 2025-01-27 004126](https://github.com/user-attachments/assets/40742233-f953-4981-a628-008c07142224)
 
