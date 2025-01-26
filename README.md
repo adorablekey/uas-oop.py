@@ -16,6 +16,7 @@ class data dapat Digunakan untuk menyimpan data siswa seperti ID, nama, kelas, d
 4. main program
 ![Screenshot 2025-01-27 000513](https://github.com/user-attachments/assets/849bf8eb-3709-445e-baba-de7ec316b0d9)
 OUTPUT
+![Screenshot 2025-01-27 000559](https://github.com/user-attachments/assets/d7358f86-d49e-47b3-b733-147618796cae)
 
 
 
