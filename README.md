@@ -18,6 +18,9 @@ Class View: Menyimpan daftar siswa (siswa_list) dan memiliki metode untuk menamb
 
 3. class process
 ![Screenshot 2025-01-27 000443](https://github.com/user-attachments/assets/46ee447f-a86f-4099-831c-7f44fa534a54)
+
+Class Process yang bertanggung jawab untuk logika data (tambah, hapus, edit, cari).
+
  main program
 ![Screenshot 2025-01-27 000513](https://github.com/user-attachments/assets/849bf8eb-3709-445e-baba-de7ec316b0d9)
 OUTPUT
