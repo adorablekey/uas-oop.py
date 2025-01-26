@@ -8,6 +8,7 @@
 Program daftar siswa smk sederhana menggunakan konsep Modular dan OOP Program ini memiliki tiga komponen utama
 1. data
 ![Screenshot 2025-01-27 000420](https://github.com/user-attachments/assets/56b3772b-2c97-4d58-816e-af07b9f83f8d)
+class data dapat Digunakan untuk menyimpan data siswa seperti ID, nama, kelas, dan jurusan.
 
 
    
