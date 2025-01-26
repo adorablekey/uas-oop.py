@@ -11,9 +11,11 @@ Program daftar siswa smk sederhana menggunakan konsep Modular dan OOP Program in
 class data dapat Digunakan untuk menyimpan data siswa seperti ID, nama, kelas, dan jurusan.
 2. class view
 ![Screenshot 2025-01-27 000432](https://github.com/user-attachments/assets/5f889a41-94bf-48dd-bad9-8f91c0756749)
+
+Class ViewSiswa: Menyimpan daftar siswa (siswa_list) dan memiliki metode untuk menambah siswa (tambah_siswa), menampilkan daftar siswa (tampilkan_daftar_siswa), dan mencari siswa berdasarkan ID (cari_siswa).
 3. class process
 ![Screenshot 2025-01-27 000443](https://github.com/user-attachments/assets/46ee447f-a86f-4099-831c-7f44fa534a54)
-4. main program
+ main program
 ![Screenshot 2025-01-27 000513](https://github.com/user-attachments/assets/849bf8eb-3709-445e-baba-de7ec316b0d9)
 OUTPUT
 ![Screenshot 2025-01-27 004126](https://github.com/user-attachments/assets/40742233-f953-4981-a628-008c07142224)
