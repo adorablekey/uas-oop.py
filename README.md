@@ -12,12 +12,14 @@ class data dapat Digunakan untuk menyimpan data siswa seperti ID, nama, kelas, d
 
 
 2. class view
-![Screenshot 2025-01-27 000443](https://github.com/user-attachments/assets/46ee447f-a86f-4099-831c-7f44fa534a54)
+![Screenshot 2025-01-27 000432](https://github.com/user-attachments/assets/5ca4c94f-7d75-44dd-bec7-6757f549e384)
+
 
 Class View: bertanggung jawab untuk menampilkan data ke pengguna (user interface). Kelas ini akan menerima data dari Data Class dan menampilkannya dalam format yang dapat dibaca oleh pengguna. Menyimpan daftar siswa (siswa_list) dan memiliki metode untuk menambah siswa (tambah_siswa), menampilkan daftar siswa (tampilkan_daftar_siswa), dan mencari siswa berdasarkan ID (cari_siswa).
 
 3. class process
 ![Screenshot 2025-01-27 000443](https://github.com/user-attachments/assets/46ee447f-a86f-4099-831c-7f44fa534a54)
+
 Class Process bertanggung jawab untuk memproses data. Kelas ini biasanya berisi logika bisnis, seperti menambahkan siswa baru, menghapus siswa, atau mencari siswa berdasarkan kriteria tertentu.
 
 class process memiliki metode tambah_siswa untuk menambahkan siswa baru ke dalam daftar dan tampilkan_siswa untuk memanggil ViewSiswa agar menampilkan daftar siswa.
