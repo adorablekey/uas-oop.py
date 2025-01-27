@@ -21,6 +21,8 @@ Class View: bertanggung jawab untuk menampilkan data ke pengguna (user interface
 
 Class Process bertanggung jawab untuk memproses data. Kelas ini biasanya berisi logika bisnis, seperti menambahkan siswa baru, menghapus siswa, atau mencari siswa berdasarkan kriteria tertentu.
 
+ProcessSiswa memiliki metode tambah_siswa untuk menambahkan siswa baru ke dalam daftar dan tampilkan_siswa untuk memanggil ViewSiswa agar menampilkan daftar siswa.
+
  main program
 ![Screenshot 2025-01-27 000513](https://github.com/user-attachments/assets/849bf8eb-3709-445e-baba-de7ec316b0d9)
 
