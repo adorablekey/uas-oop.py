@@ -33,6 +33,10 @@ main.py: Ini adalah file utama yang akan menampilkan menu kepada pengguna dan me
 OUTPUT
 ![Screenshot 2025-01-27 004126](https://github.com/user-attachments/assets/40742233-f953-4981-a628-008c07142224)
 
+#https://youtu.be/RfCXpaMMKRs?si=c3GbHUFZf7yd3Xvv
+
+
+
 
 
 
